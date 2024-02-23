@@ -1,9 +1,10 @@
 ## Visualizing Institutional Research Using Open Data
 
-**Code for data collection and cleaning**
+This page hosts the code used for collecting and cleaning the data behind the visualisations in this blog post: 
+https://library.hkust.edu.hk/sc/visualizing-institutional-research-using-open-data/
 
-### Table of Content
-- S1: How are we progressing toward open access?
-- S2: Which journals have we published in the most over the last 10 years?
-- S3: How has our contribution to the Sustainable Development Goals (SDG) evolved over the years?
-- S4: Which of our publications have had the most impact over the years?
+### List of visuals
+- [Growth of Open Access Publications at HKUST in the Last 10 Years](https://public.flourish.studio/visualisation/16724378/)
+- [Top 20 Journals HKUST Authors Publish in, 2014-2023](https://public.flourish.studio/visualisation/16617130/)
+- [Top 7 SDG Areas HKUST Publications Focus on, 2014-2023](https://public.flourish.studio/visualisation/16607046/)
+- [Citation Trends of HKUST Publications, 2014-2023](https://public.flourish.studio/visualisation/16636871/)
